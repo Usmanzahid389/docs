@@ -1,6 +1,5 @@
 .search-cache
 .DS_Store
-.env
 .vscode/settings.json
 .idea/
 /node_modules/
@@ -55,3 +54,7 @@ docs-internal-data/
 
 # For intermediate data (like scraping for Elasticsearch indexing)
 tmp/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
